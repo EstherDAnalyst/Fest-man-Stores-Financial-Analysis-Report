@@ -17,6 +17,9 @@ While Festman Stores has witnessed substantial year-over-year growth, significan
 
 ### DASHBOARD
 
+<img width="1062" height="614" alt="Festman sales" src="https://github.com/user-attachments/assets/ba13b6db-8420-4fcd-8443-b639800e9e9a" />
+
+
 ### RESULTS/FINDINGS
 
 
